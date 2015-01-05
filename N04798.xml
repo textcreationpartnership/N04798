@@ -114,13 +114,15 @@
    <text xml:lang="eng">
       <front>
          <div type="half_title">
-            <pb facs="tcp:005986_0000_10271EF939C48B30"/>
-            <pb facs="tcp:005986_0001_102720011B074BD8" rendition="simple:additions"/>
+            <pb facs="unknown:005986_0000_10271EF939C48B30"/>
+            <pb facs="unknown:005986_0001_102720011B074BD8"
+                rendition="simple:additions"/>
             <p>PHILOSOPHIC SOLITUDE: A <hi>POEM</hi>
             </p>
          </div>
          <div type="title_page">
-            <pb facs="tcp:005986_0002_10272002AEA9F410" rendition="simple:additions"/>
+            <pb facs="unknown:005986_0002_10272002AEA9F410"
+                rendition="simple:additions"/>
             <p>
                <hi>Philoſophic Solitude:</hi> OR THE CHOICE OF A RURAL LIFE. A POEM.</p>
             <p>By a GENTLEMAN educated at YALE College.</p>
@@ -140,7 +142,7 @@
                <hi>NEW-YORK:</hi> Printed by <hi>James Parker,</hi> 1747.</p>
          </div>
          <div type="poem">
-            <pb n="iii" facs="tcp:005986_0003_102720044621B7A8"/>
+            <pb n="iii" facs="unknown:005986_0003_102720044621B7A8"/>
             <head>TO THE INGENIOUS AUTHOR OF THE POEM ENTITLED. <hi>Philoſophic Solitude,</hi> &amp;c.</head>
             <lg>
                <l>WHILE in your verſe with tranſport and ſurprize</l>
@@ -160,7 +162,7 @@
                <l>And every pulſe beats concert to your ſong.</l>
             </lg>
             <lg>
-               <pb n="iv" facs="tcp:005986_0004_1027200642FE8A60"/>
+               <pb n="iv" facs="unknown:005986_0004_1027200642FE8A60"/>
                <l>Wrapt into ages paſt, and future times,</l>
                <l>To diſtant regions, and to happier climes;</l>
                <l>When native innocence adorn'd mankind,</l>
@@ -195,7 +197,7 @@
                <l>Still as we trace you thro' th' harmonious theme,</l>
                <l>New beauties flouriſh, and freſh glories beam;</l>
                <l>
-                  <pb n="v" facs="tcp:005986_0005_1027200CA9E01F90"/>
+                  <pb n="v" facs="unknown:005986_0005_1027200CA9E01F90"/>
 Pleaſures on pleaſures, ſcenes on ſcenes ariſe,</l>
                <l>
                   <hi>And varied proſpects glad our wandring eyes.</hi>
@@ -233,7 +235,7 @@ Pleaſures on pleaſures, ſcenes on ſcenes ariſe,</l>
                <l>We hear the rattling wheels and axils bound,</l>
                <l>And all heav'n's pavement trembling with the ſound:</l>
                <l>
-                  <pb n="vi" facs="tcp:005986_0006_1027200F649A0A78"/>
+                  <pb n="vi" facs="unknown:005986_0006_1027200F649A0A78"/>
 Then gentler ſtrains the flowing notes prolong,</l>
                <l>And <hi>Windſor-plains</hi> reflouriſh in your ſong.</l>
             </lg>
@@ -262,7 +264,7 @@ Then gentler ſtrains the flowing notes prolong,</l>
             <signed>N. W.</signed>
          </div>
          <div type="poem">
-            <pb n="vii" facs="tcp:005986_0007_10272010F827BB80"/>
+            <pb n="vii" facs="unknown:005986_0007_10272010F827BB80"/>
             <head>
                <hi>TO</hi> Mr. L*********, <hi>ON HIS</hi> Philoſophic Solitude, <hi>&amp;c.</hi>
             </head>
@@ -289,7 +291,7 @@ Then gentler ſtrains the flowing notes prolong,</l>
                <l>What varying ſcenes in every page appear!</l>
                <l>What varying ſcenes my buſy fancy chear!</l>
                <l>
-                  <pb n="viii" facs="tcp:005986_0008_10272013F90CCC20"/>
+                  <pb n="viii" facs="unknown:005986_0008_10272013F90CCC20"/>
 Rapt by your Notes, from maze to maze I rove,</l>
                <l>And hear ſoft muſic eccho thro' the grove;</l>
                <l>Now thoughtful wander thro' the waving wood;</l>
@@ -322,7 +324,7 @@ Rapt by your Notes, from maze to maze I rove,</l>
                <l>Dart from her ſoul and ſpeak her all divine.</l>
             </lg>
             <lg>
-               <pb n="ix" facs="tcp:005986_0009_1026E14E60EAAE78"/>
+               <pb n="ix" facs="unknown:005986_0009_1026E14E60EAAE78"/>
                <l>With flowing wine, and noiſy converſe gay,</l>
                <l>In guilty mirth let others waſte the day;</l>
                <l>Snatch me, ſome God, to <hi>L</hi>******s retreats,</l>
@@ -351,7 +353,7 @@ Rapt by your Notes, from maze to maze I rove,</l>
                <l>Amid the ſylvan ſcenes you paint ſo well.</l>
             </lg>
             <lg>
-               <pb n="x" facs="tcp:005986_0010_1027201989B152C0"/>
+               <pb n="x" facs="unknown:005986_0010_1027201989B152C0"/>
                <l>Oh wou'd the Power ſupreme my wiſh compleat!</l>
                <l>And fix us in ſome ſolitary ſeat,</l>
                <l>(May fair <hi>Queen's Village</hi>
@@ -375,18 +377,19 @@ Rapt by your Notes, from maze to maze I rove,</l>
             <signed>W. P. S.</signed>
          </div>
          <div type="half_title">
-            <pb facs="tcp:005986_0011_1027201C69686720" rendition="simple:additions"/>
+            <pb facs="unknown:005986_0011_1027201C69686720"
+                rendition="simple:additions"/>
             <p>PHILOSOPHIC SOLITUDE: OR, THE CHOICE OF A RURAL LIFE.</p>
          </div>
          <div type="argument">
-            <pb facs="tcp:005986_0012_1027201F4FCA5FA8"/>
+            <pb facs="unknown:005986_0012_1027201F4FCA5FA8"/>
             <head>The ARGUMENT.</head>
             <p>THE Subject propoſed. Situation of the Au<g ref="char:EOLhyphen"/>thor's Houſe. His Frugality in its Furiture. The Beauties of the Country. His Love of Retire<g ref="char:EOLhyphen"/>ment, and Choice of his Friends. A Deſcription of the Morning. Hymn to the Sun. Contemplation of the Heavens. The Exiſtence of God inferr'd from a View of the Beauty and Harmony of the Creation. Morning and Everning Devotion. The Vanity of Riches and Grandeur. The Choice of his Books. Praiſe of the Marriage State. A Knot of Modern Ladies deſcribed. The Author's Exit.</p>
          </div>
       </front>
       <body>
          <div type="poem">
-            <pb n="13" facs="tcp:005986_0013_1027202326B45EF8"/>
+            <pb n="13" facs="unknown:005986_0013_1027202326B45EF8"/>
             <head>PHILOSOPHIC SOLITUDE, <hi>&amp;c.</hi>
             </head>
             <lg>
@@ -410,7 +413,7 @@ Rapt by your Notes, from maze to maze I rove,</l>
                <l>Unlike the ſumptuous domes of modern days;</l>
                <l>
                   <pb n="14"
-                      facs="tcp:005986_0014_10272024B8213788"
+                      facs="unknown:005986_0014_10272024B8213788"
                       rendition="simple:additions"/>
 Devoid of pomp, with rural plaineſs form'd,</l>
                <l>With ſavage game, and gloſſy ſhells adorn'd.</l>
@@ -436,7 +439,7 @@ Devoid of pomp, with rural plaineſs form'd,</l>
                <l>And ev'ry vocal grove reſponſive ſings.</l>
             </lg>
             <lg>
-               <pb n="15" facs="tcp:005986_0015_1027202672531268"/>
+               <pb n="15" facs="unknown:005986_0015_1027202672531268"/>
                <l>ME to ſequeſter'd ſcenes, ye muſes guide,</l>
                <l>Where nature wantons in her virgin-pride;</l>
                <l>To moſſy banks edg'd round with op'ning flow'rs,</l>
@@ -462,7 +465,7 @@ Devoid of pomp, with rural plaineſs form'd,</l>
                <l n="55">But white-rob'd peace, and univerſal love</l>
                <l>Smile in the field, and brighten every grove.</l>
                <l>
-                  <pb n="16" facs="tcp:005986_0016_1027202934BE3A50"/>
+                  <pb n="16" facs="unknown:005986_0016_1027202934BE3A50"/>
 There all the beauties of the circling year,</l>
                <l>In native ornamental pride appear.</l>
                <l>Gay roſy-boſom'd SPRING, and <hi>April</hi> ſhow'rs</l>
@@ -489,7 +492,7 @@ There all the beauties of the circling year,</l>
                <l>Illuſtrious villains, and illuſtrious ſlaves!</l>
                <l>
                   <pb n="17"
-                      facs="tcp:005986_0017_1027202E3614C5B8"
+                      facs="unknown:005986_0017_1027202E3614C5B8"
                       rendition="simple:additions"/>
 From all the vain formality of fools,</l>
                <l n="80">And odious taſk of arbitrary rules,</l>
@@ -517,7 +520,7 @@ From all the vain formality of fools,</l>
                <l n="100">Breathing benevolence to all mankind;</l>
                <l>
                   <pb n="18"
-                      facs="tcp:005986_0018_10272030F0BCAB58"
+                      facs="unknown:005986_0018_10272030F0BCAB58"
                       rendition="simple:additions"/>
 Cautious to cenſure, ready to commend,</l>
                <l>A firm unſhaken, uncorrupted friend:</l>
@@ -542,7 +545,8 @@ Cautious to cenſure, ready to commend,</l>
                <l>Next round my board ſhould candid <hi>S</hi>*** appear,</l>
                <l>Of manners gentle, and a friend ſincere,</l>
                <l>
-                  <pb facs="tcp:005986_0019_10272032889572E0" rendition="simple:additions"/>
+                  <pb facs="unknown:005986_0019_10272032889572E0"
+                      rendition="simple:additions"/>
 Averſe to diſcord, party-rage, and ſtrife</l>
                <l>He ſails ſerenely down the ſtream of life.</l>
                <l>With theſe <hi>three friends,</hi> beneath a ſpreading ſhade,</l>
@@ -570,7 +574,7 @@ Averſe to diſcord, party-rage, and ſtrife</l>
                </l>
                <l>For fount-full <hi>Ide,</hi> forſook the realms above.</l>
                <l n="145">
-                  <pb facs="tcp:005986_0020_102720358BA37248"/>
+                  <pb facs="unknown:005986_0020_102720358BA37248"/>
 Oft' to <hi>Idalia</hi> on a golden cloud,</l>
                <l>Veil'd in a miſt of fragrance <hi>Venus</hi> rode:</l>
                <l>There numerous altars to the queen were rear'd,</l>
@@ -596,7 +600,7 @@ Oft' to <hi>Idalia</hi> on a golden cloud,</l>
                <l n="165">Th' unfolding roſes, and the op'ning flow'rs</l>
                <l>Imbibe the dew, and ſtrew the varied bow'rs,</l>
                <l>
-                  <pb n="21" facs="tcp:005986_0021_102720396C70A9C8"/>
+                  <pb n="21" facs="unknown:005986_0021_102720396C70A9C8"/>
 Diffuſe nectareous ſweets around, and glow</l>
                <l>With all the colours of the ſhow'ry bow.</l>
                <l>Th' induſtrious bees their balmy toil renew,</l>
@@ -622,7 +626,7 @@ Diffuſe nectareous ſweets around, and glow</l>
                <l>Hence war is furniſh'd, and the regal ſhield</l>
                <l>Like lightning flaſhes o'er th' illumin'd field.</l>
                <l>
-                  <pb n="22" facs="tcp:005986_0022_1027203B02DB04A0"/>
+                  <pb n="22" facs="unknown:005986_0022_1027203B02DB04A0"/>
 If thou ſo fair with delegated light,</l>
                <l n="190">That all heav'ns ſplendors vaniſh at thy ſight;</l>
                <l>With what effulgence muſt the ocean glow</l>
@@ -647,7 +651,7 @@ If thou ſo fair with delegated light,</l>
                <l>Go, fill the ſtie, and briſtle into ſwine!</l>
             </lg>
             <lg>
-               <pb n="23" facs="tcp:005986_0023_1027203DF7B857E0"/>
+               <pb n="23" facs="unknown:005986_0023_1027203DF7B857E0"/>
                <l n="209">NONE but a Pow'r omnipotent and wiſe</l>
                <l>Could frame this earth, or ſpread the boundleſs ſkies:</l>
                <l>He made the whole; at his omnific call</l>
@@ -671,7 +675,7 @@ If thou ſo fair with delegated light,</l>
                <l>And chaunt ſublimer hymns to his creator's praiſe.</l>
             </lg>
             <lg>
-               <pb n="24" facs="tcp:005986_0024_102720F08E127290"/>
+               <pb n="24" facs="unknown:005986_0024_102720F08E127290"/>
                <l n="230">WHEN riſing <hi>Phoebus</hi> uſhers in the morn,</l>
                <l>And golden beams th' impurpled ſkies adorn;</l>
                <l>Wak'd by the gentle murmur of the floods;</l>
@@ -697,7 +701,7 @@ If thou ſo fair with delegated light,</l>
                <l n="250">Before the beamy Sun diſpens'd a ray,</l>
                <l>Flam'd in the azure vault, and gave the day;</l>
                <l>
-                  <pb n="25" facs="tcp:005986_0025_1026E1815DB82F50"/>
+                  <pb n="25" facs="unknown:005986_0025_1026E1815DB82F50"/>
 Before the glimmering Moon with borrow'd light</l>
                <l>Shone queen amid the ſilver hoſt of night,</l>
                <l>High in the heav'ns, thou reign'd ſuperior Lord,</l>
@@ -721,7 +725,7 @@ Before the glimmering Moon with borrow'd light</l>
                <l>At thy creative voice, from antient night</l>
                <l>Sprang ſmiling beauty, and yon worlds of light:</l>
                <l n="274">
-                  <pb n="26" facs="tcp:005986_0026_1026E19F272CC730"/>
+                  <pb n="26" facs="unknown:005986_0026_1026E19F272CC730"/>
 Thou ſpak'ſt—the planetary Chorus roll'd,</l>
                <l>And all th' expanſe was ſtarr'd with beamy gold;</l>
                <l>LET THERE BE LIGHT, ſaid God,—Light inſtant ſhone</l>
@@ -748,7 +752,7 @@ Thou ſpak'ſt—the planetary Chorus roll'd,</l>
                <l n="295">The ev'ning anthem, and the morning lay.</l>
             </lg>
             <lg>
-               <pb n="27" facs="tcp:005986_0027_1026E1A252A97358"/>
+               <pb n="27" facs="unknown:005986_0027_1026E1A252A97358"/>
                <l>FOR ſovereign GOLD I never would repine,</l>
                <l>Nor wiſh the glittering duſt of monarchs mine.</l>
                <l>What tho' high columns heave into the ſkies,</l>
@@ -772,7 +776,7 @@ Thou ſpak'ſt—the planetary Chorus roll'd,</l>
                <l>For, lo! he ſickens, ſwift his colour flies,</l>
                <l>And riſing miſts obſcure his ſwimming eyes:</l>
                <l>
-                  <pb n="28" facs="tcp:005986_0028_1026E1A4CBCECFD8"/>
+                  <pb n="28" facs="unknown:005986_0028_1026E1A4CBCECFD8"/>
 Around his bed his weeping friends bemoan,</l>
                <l>Extort th' unwilling tear, and wiſh him gone;</l>
                <l n="320">His ſorrowing heir augments the tender ſhow'r</l>
@@ -798,7 +802,7 @@ Around his bed his weeping friends bemoan,</l>
                <l>Thus the great Father of mankind was dreſt,</l>
                <l>When ſhaggy hides compos'd his flowing veſt:</l>
                <l n="340">
-                  <pb n="29" facs="tcp:005986_0029_1026E1A953826A50"/>
+                  <pb n="29" facs="unknown:005986_0029_1026E1A953826A50"/>
 Doom'd to the cum'brous load for his offence,</l>
                <l>When cloaths ſupply'd the want of innocence;</l>
                <l>But now his ſons (forgetful whence they came)</l>
@@ -824,7 +828,7 @@ Doom'd to the cum'brous load for his offence,</l>
                <l n="360">"E'er while like thee we led our lives below,</l>
                <l>"(Sad lives of pain, of miſery, and woe!)</l>
                <l>
-                  <pb n="30" facs="tcp:005986_0030_1026E1D3301B3F20"/>
+                  <pb n="30" facs="unknown:005986_0030_1026E1D3301B3F20"/>
 "Long by affliction's boiſt'rous tempeſts toſt,</l>
                <l>"We reach'd at legth the ever-bliſsful coaſt:</l>
                <l>"Now in th' imbow'ring groves, and lawns above</l>
@@ -850,7 +854,7 @@ Doom'd to the cum'brous load for his offence,</l>
                <l>Firſt I'd collect from the Parnaſſian ſpring,</l>
                <l>What muſes dictate, and what poets ſing.</l>
                <l>
-                  <pb n="31" facs="tcp:005986_0031_1026E1D4E7726768"/>
+                  <pb n="31" facs="unknown:005986_0031_1026E1D4E7726768"/>
                   <hi>Virgil</hi> as Prince, ſhou'd wear the laurel'd crown,</l>
                <l n="385">And other bards pay homage to his throne:</l>
                <l>The blood of heroes now effus'd ſo long</l>
@@ -874,7 +878,7 @@ Doom'd to the cum'brous load for his offence,</l>
                <l>How ſtern <hi>Aeneas</hi> thunders thro' the field!</l>
                <l n="405">With tow'ring helmet and refulgent ſhield!</l>
                <l>
-                  <pb n="32" facs="tcp:005986_0032_1026E1D76FB0EC60"/>
+                  <pb n="32" facs="unknown:005986_0032_1026E1D76FB0EC60"/>
 Courſers o'erturn'd, and mighty warriors ſlain,</l>
                <l>Deform'd with gore, lie welt'ring on the plain:</l>
                <l>Struck thro' with wounds, ill-fated cheiftains lie,</l>
@@ -900,7 +904,7 @@ Courſers o'erturn'd, and mighty warriors ſlain,</l>
                <l>Firſt <hi>Michael</hi> ſtalks high—tow'ring o'er the reſt,</l>
                <l>With heav'nly plumage nodding on his creſt:</l>
                <l>
-                  <pb n="33" facs="tcp:005986_0033_1026E1DA4B09BEA0"/>
+                  <pb n="33" facs="unknown:005986_0033_1026E1DA4B09BEA0"/>
 Impenetrable arms his limbs infold,</l>
                <l>Eternal adamant, and burning gold!</l>
                <l n="430">Sparkling in ſiery mail, with dire delight,</l>
@@ -926,7 +930,7 @@ Impenetrable arms his limbs infold,</l>
                <l>THEN tuneful <hi>Pope</hi> whom all the nine inſpire</l>
                <l>With <hi>ſaphic</hi> ſweetneſs, and <hi>pindaric</hi> fire,</l>
                <l n="450">
-                  <pb n="34" facs="tcp:005986_0034_1026E1DBF4A4B710"/>
+                  <pb n="34" facs="unknown:005986_0034_1026E1DBF4A4B710"/>
 Father of verſe! melodious and divine!</l>
                <l>Next peerleſs <hi>Milton</hi> ſhou'd diſtinguiſh'd ſhine.</l>
                <l>Smooth flow his numbers when he paints the grove,</l>
@@ -953,7 +957,7 @@ Father of verſe! melodious and divine!</l>
                <l n="470">How long did <hi>Virgil</hi> untranſlated moan,</l>
                <l>His beauties fading, and his flights unknown;</l>
                <l>
-                  <pb n="35" facs="tcp:005986_0035_1026E1DDDEC6FB88"/>
+                  <pb n="35" facs="unknown:005986_0035_1026E1DDDEC6FB88"/>
 Till <hi>Dryden</hi> roſe, and in exalted ſtrain</l>
                <l>Re-ſang the fortune of the God-like man?</l>
                <l>Again the <hi>Trojan</hi> Prince with dire delight,</l>
@@ -981,7 +985,7 @@ Till <hi>Dryden</hi> roſe, and in exalted ſtrain</l>
                <l>Bleſt man! from gay deluſive ſcenes remov'd,</l>
                <l>Thy maker loving, by thy maker lov'd,</l>
                <l>
-                  <pb n="36" facs="tcp:005986_0036_1026E1E22B4B2CF8"/>
+                  <pb n="36" facs="unknown:005986_0036_1026E1E22B4B2CF8"/>
 To God thou tun'ſt thy conſecrated lays,</l>
                <l n="500">Nor meanly bluſh to ſing <hi>Jehovah</hi>'s praiſe.</l>
                <l>Oh! did, like thee, each laurel'd bard delight</l>
@@ -1011,7 +1015,7 @@ To God thou tun'ſt thy conſecrated lays,</l>
                   <hi>Quintilian, Plato,</hi> and <hi>Demoſthencs,</hi>
                </l>
                <l>
-                  <pb n="37" facs="tcp:005986_0037_1026E1E3B8E83108"/>
+                  <pb n="37" facs="unknown:005986_0037_1026E1E3B8E83108"/>
 Perſuaſive <hi>Tully,</hi> and <hi>Corduba's Sage,</hi>
                   <note n="‡" place="bottom">Seneca.</note>
                </l>
@@ -1038,7 +1042,7 @@ Perſuaſive <hi>Tully,</hi> and <hi>Corduba's Sage,</hi>
                <l>Will ſhine on records of eternal fame.</l>
             </lg>
             <lg>
-               <pb n="38" facs="tcp:005986_0038_1026E1E59512E1D8"/>
+               <pb n="38" facs="unknown:005986_0038_1026E1E59512E1D8"/>
                <l>BY love directed, I wou'd chuſe a wife,</l>
                <l>T' improve my bliſs, and eaſe the load of life.</l>
                <l n="550">Hail <hi>Wedlock!</hi> hail, inviolable tye!</l>
@@ -1065,7 +1069,7 @@ Perſuaſive <hi>Tully,</hi> and <hi>Corduba's Sage,</hi>
                <l>Unblemiſh'd as the white-rob'd virgin-quire</l>
                <l>That fed, O <hi>Rome!</hi> thy conſecrated fire?</l>
                <l n="570">
-                  <pb n="39" facs="tcp:005986_0039_1026E1E9275D6868"/>
+                  <pb n="39" facs="unknown:005986_0039_1026E1E9275D6868"/>
 By reaſon aw'd, ambitious to be good,</l>
                <l>Averſe to vice, and zealous for her God?</l>
                <l>Relate, in what bleſt region can I find</l>
@@ -1094,7 +1098,7 @@ By reaſon aw'd, ambitious to be good,</l>
                   <hi>Lucy</hi> inveſted with judicial pow'r</l>
                <l>Awards 'twas neither — and the ſtrife is o'er.</l>
                <l>
-                  <pb n="40" facs="tcp:005986_0040_1026E1EC95F75E08"/>
+                  <pb n="40" facs="unknown:005986_0040_1026E1EC95F75E08"/>
 Then parrots, lap-dogs, monkeys, ſquirrels, beaux,</l>
                <l n="586">Fans, ribbands, tuckers, patches, furbeloes,</l>
                <l>In quick ſucceſſion thro' their fancies run,</l>
@@ -1119,7 +1123,7 @@ Then parrots, lap-dogs, monkeys, ſquirrels, beaux,</l>
                <l n="610">Th' ideal goddeſſes to church repair,</l>
                <l>Peep thro' the fan, and mutter o'er a pray'r,</l>
                <l>
-                  <pb n="41" facs="tcp:005986_0041_10272040F4347C98"/>
+                  <pb n="41" facs="unknown:005986_0041_10272040F4347C98"/>
 Or liſten to the organ's pompous ſound,</l>
                <l>Or eye the gilded images around;</l>
                <l>Or, deeply ſtudied in coquettiſh rules,</l>
@@ -1145,7 +1149,7 @@ Or liſten to the organ's pompous ſound,</l>
                <l>But in her breaſt let moral beauties ſhine,</l>
                <l>Supernal grace and purity divine:</l>
                <l>
-                  <pb n="42" facs="tcp:005986_0042_10272044D6FFA260"/>
+                  <pb n="42" facs="unknown:005986_0042_10272044D6FFA260"/>
 Sublime her reaſon, and her native wit</l>
                <l n="635">Unſtain'd with pedantry, and low conceit:</l>
                <l>Her fancy livelt, and her judgment free</l>
@@ -1170,7 +1174,7 @@ Sublime her reaſon, and her native wit</l>
                <l n="655">Mild as the ſaint whoſe errors are forgiv'n,</l>
                <l>Calm as a veſtal, and compos'd as heav'n.</l>
                <l>
-                  <pb n="43" facs="tcp:005986_0043_102720466A3B5720"/>
+                  <pb n="43" facs="unknown:005986_0043_102720466A3B5720"/>
 This be the partner, this the lovely wife</l>
                <l>That ſhould embelliſh, and prolong my life;</l>
                <l>A nymph! who might a ſecond fall inſpire,</l>
@@ -1194,7 +1198,7 @@ This be the partner, this the lovely wife</l>
                <l n="675">No warbling <hi>Syrens</hi> ſhou'd retard my flight</l>
                <l>To heav'nly manſions of unclouded light.</l>
                <l>
-                  <pb n="44" facs="tcp:005986_0044_1027204920A60840"/>
+                  <pb n="44" facs="unknown:005986_0044_1027204920A60840"/>
 Tho' Death, with his imperial horrors crown'd,</l>
                <l>Terrific grinn'd, and formidably frown'd,</l>
                <l>Offences pardon'd, and remitted ſin</l>
